@@ -25,3 +25,33 @@ public class Main {
     }
 }
 
+
+//OUTPUT//
+Student Details:
+Name  : Reena
+Age   : 15
+ID    : 102
+Marks : 89
+Name  : Karthik
+Age   : 17
+ID    : 104
+Marks : 60
+Name  : Diya
+Age   : 14
+ID    : 110
+Marks : 99
+Name  : Kiran
+Age   : 14
+ID    : 105
+Marks : 50
+Name  : Geetha
+Age   : 16
+ID    : 107
+Marks : 55
+Student with Minimum Marks
+Name  : Kiran
+Marks : 50
+
+Process finished with exit code 0
+
+
